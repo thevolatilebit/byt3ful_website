@@ -1,0 +1,4 @@
+Sitemap: https://bytf3ful.com/sitemap.xml
+
+User-agent: *
+Disallow:
